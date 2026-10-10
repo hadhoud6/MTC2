@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "title": "MARBRERIE TUNIS CARTHAGE | Depuis 1989",
+    "description": "MARBRERIE TUNIS CARTHAGE — experts en marbre, granit et pierre naturelle depuis 1989."
+  },
+  "loading": {
+    "text": "Chargement de l'excellence..."
+  },
+  "nav": {
+    "accueil": "Accueil",
+    "apropos": "À Propos",
+    "usine": "L'usine",
+    "produits": "Produits",
+    "configurateur": "Configurateur 3D",
+    "projets": "Projets",
+    "devis": "Devis",
+    "contact": "Contact",
+    "catalogue": "Catalogue",
+    "footer": "Contact & Liens",
+    "since": "Since {year}",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu"
+  },
+  "video": {
+    "title": "Notre Savoir-Faire en Mouvement",
+    "description": "Plongez au cœur de notre processus de création. De l'extraction à la finition, chaque étape est réalisée avec une précision et une passion qui garantissent un produit d'exception. Cette vidéo illustre notre engagement envers la qualité et l'artisanat tunisien.",
+    "mute": "Couper le son",
+    "unmute": "Activer le son"
+  },
+  "usine": {
+    "title": "Usine",
+    "description": "Découvrez nos ateliers de transformation du marbre, où tradition artisanale et technologies modernes se rencontrent. Chaque pierre est taillée, polie et finie avec un savoir-faire transmis depuis 1989.",
+    "cta": "Visiter l'usine"
+  },
+  "products": {
+    "title": "Produits",
+    "description": "Explorez notre collection de marbres, disponibles dans une variété de couleurs et de finitions pour sublimer tous vos projets, des plus classiques aux plus audacieux.",
+    "viewAll": "Explorer les produits",
+    "modalTitle": "Notre Collection",
+    "modalSubtitle": "Découvrez nos marbres d'exception",
+    "finishLabel": "Finition:",
+    "items": {
+      "marbre-blanc-carrare": "Marbre Blanc Carrare",
+      "marbre-noir-marquina": "Marbre Noir Marquina",
+      "travertin-beige": "Travertin Beige",
+      "granit-rouge-imperial": "Granit Rouge Impérial",
+      "marbre-emeraude": "Marbre Émeraude",
+      "onyx-honey": "Onyx Honey"
+    },
+    "addToQuote": "Ajouter à mon devis"
+  },
+  "configurator": {
+    "title": "Configurateur 3D",
+    "description": "Utilisez notre configurateur 3D interactif pour tester nos marbres dans votre propre espace. Donnez vie à vos idées et choisissez la finition parfaite avant même de commencer.",
+    "cta": "Lancer l'outil 3D",
+    "popup": {
+      "title": "Choisissez votre espace à visualiser",
+      "rooms": {
+        "kitchen": "Cuisine",
+        "bathroom": "Salle de Bain",
+        "livingRoom": "Salon",
+        "table": "Table"
+      },
+      "imageAlt": "Image placeholder — {room}",
+      "selectedMessage": "Vous avez choisi : {room} — la suite de l'outil sera bientôt disponible",
+      "back": "Retour"
+    }
+  },
+  "projets": {
+    "title": "Projets",
+    "description": "Découvrez une sélection de nos réalisations : villas, hôtels, bureaux et espaces publics sublimés par le marbre tunisien. Chaque projet témoigne de notre savoir-faire et de notre engagement envers l'excellence.",
+    "cta": "Explorer une sélection des projets"
+  },
+  "trusted": {
+    "title": "Ils nous ont fait confiance",
+    "description": "Un réseau de clients diversifiés et prestigieux à travers le monde."
+  },
+  "footer": {
+    "usefulLinks": "Liens utiles",
+    "contactUs": "Contactez-nous",
+    "copyright": "© {year} MARBRERIE TUNIS CARTHAGE. Tous droits réservés."
+  },
+  "social": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "backToTop": "Retour en haut"
+  },
+  "comingSoon": {
+    "title": "Bientôt disponible",
+    "description": "Cette page est en cours de construction. Revenez très bientôt.",
+    "backHome": "Retour à l'accueil"
+  },
+  "devis": {
+    "meta": {
+      "title": "Demande de devis | MARBRERIE TUNIS CARTHAGE",
+      "description": "Demandez un devis personnalisé pour votre projet en marbre, granit ou travertin. Notre équipe vous répond rapidement."
+    },
+    "pageTitle": "Demande de devis",
+    "pageIntro": "Décrivez votre projet et nous vous recontactons avec une proposition sur mesure. Tous les champs marqués sont obligatoires, sauf la pièce jointe.",
+    "fields": {
+      "nom": "Nom",
+      "prenom": "Prénom",
+      "email": "Adresse e-mail",
+      "telephone": "Numéro de téléphone",
+      "productType": "Type de produit",
+      "dimensions": "Dimensions",
+      "file": "Fichier joint (optionnel)",
+      "fileHint": "PDF, JPG, PNG ou DXF — 10 Mo maximum",
+      "telephoneCountry": "Pays",
+      "quantite": "Quantité",
+      "commentaire": "Commentaire",
+      "productSubtype": "Finition / variété"
+    },
+    "placeholders": {
+      "telephone": "+216 XX XXX XXX",
+      "productType": "Sélectionnez un type",
+      "dimensions": "Ex. 2 m × 1,5 m",
+      "quantite": "Ex. 12,5",
+      "commentaire": "Décrivez brièvement votre projet…"
+    },
+    "productTypes": {
+      "marbre": "Marbre",
+      "granit": "Granit",
+      "travertin": "Travertin",
+      "autre": "Autre",
+      "onyx": "Onyx"
+    },
+    "validation": {
+      "nomRequired": "Le nom est obligatoire.",
+      "prenomRequired": "Le prénom est obligatoire.",
+      "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+      "telephoneRequired": "Le numéro de téléphone est obligatoire.",
+      "telephoneInvalid": "Format attendu : 8 chiffres, avec ou sans +216.",
+      "productTypeRequired": "Veuillez choisir un type de produit.",
+      "dimensionsRequired": "Les dimensions sont obligatoires.",
+      "fileTooLarge": "Le fichier ne doit pas dépasser 10 Mo.",
+      "fileTypeInvalid": "Formats acceptés : PDF, JPG, JPEG ou PNG.",
+      "telephoneCountryRequired": "Veuillez choisir un pays.",
+      "quantityInvalid": "La quantité doit être un nombre positif.",
+      "commentTooLong": "Le commentaire ne doit pas dépasser 1000 caractères.",
+      "productSubtypeInvalid": "Veuillez choisir une variété valide."
+    },
+    "submit": "Envoyer la demande",
+    "submitting": "Envoi en cours…",
+    "fileRemove": "Retirer",
+    "honeypotLabel": "Ne pas remplir",
+    "success": {
+      "title": "Demande envoyée",
+      "message": "Merci pour votre confiance. Nous avons bien reçu votre demande de devis.",
+      "confirmationNote": "Un e-mail de confirmation vous a été envoyé à l'adresse indiquée."
+    },
+    "error": {
+      "title": "L'envoi n'a pas abouti",
+      "retry": "Réessayer",
+      "fallback": "Vous pouvez aussi nous joindre directement :",
+      "codes": {
+        "validation": "Certaines informations semblent incorrectes. Vérifiez le formulaire et réessayez.",
+        "file": "Le fichier joint n'est pas valide.",
+        "upload": "Le téléversement du fichier a échoué. Réessayez ou envoyez sans pièce jointe.",
+        "email": "L'envoi des e-mails a échoué. Veuillez réessayer dans quelques instants.",
+        "config": "Le service est temporairement indisponible. Contactez-nous par téléphone ou WhatsApp."
+      }
+    },
+    "emailUsine": {
+      "subject": "Nouvelle demande de devis — {name}",
+      "heading": "Nouvelle demande de devis",
+      "nom": "Nom",
+      "prenom": "Prénom",
+      "email": "E-mail",
+      "telephone": "Téléphone",
+      "productType": "Type de produit",
+      "dimensions": "Dimensions",
+      "fileLink": "Fichier joint :",
+      "noFile": "Aucun fichier joint.",
+      "productTypes": {
+        "marbre": "Marbre",
+        "granit": "Granit",
+        "travertin": "Travertin",
+        "autre": "Autre",
+        "onyx": "Onyx"
+      },
+      "telephoneCountry": "Pays",
+      "productSubtype": "Finition / variété",
+      "quantite": "Quantité",
+      "commentaire": "Commentaire"
+    },
+    "emailConfirm": {
+      "subject": "Confirmation de votre demande de devis",
+      "greeting": "Bonjour {name},",
+      "body": "Nous avons bien reçu votre demande de devis. Notre équipe l'examine et vous recontactera dans les meilleurs délais.",
+      "fallback": "Pour toute urgence, vous pouvez nous joindre au :",
+      "whatsapp": "Nous écrire sur WhatsApp",
+      "telephoneCountry": "Pays",
+      "telephone": "Téléphone",
+      "productType": "Type de produit",
+      "productSubtype": "Finition / variété",
+      "dimensions": "Dimensions",
+      "quantite": "Quantité",
+      "commentaire": "Commentaire",
+      "noComment": "Aucun commentaire.",
+      "productTypes": {
+        "marbre": "Marbre",
+        "granit": "Granit",
+        "travertin": "Travertin",
+        "onyx": "Onyx",
+        "autre": "Autre"
+      }
+    },
+    "subtypeOptional": "Optionnel — choisissez une variété",
+    "selectedProduct": "Produit sélectionné :"
+  },
+  "contact": {
+    "meta": {
+      "title": "Contactez-nous | MARBRERIE TUNIS CARTHAGE",
+      "description": "Prenez contact avec nos experts en marbre de luxe. Visitez notre atelier à Charguia 2 ou envoyez-nous un message."
+    },
+    "pageTitle": "Contactez-nous",
+    "pageIntro": "Notre équipe est à votre disposition pour vous conseiller et vous accompagner dans la réalisation de vos projets en marbre d'exception.",
+    "info": {
+      "title": "Nos Coordonnées",
+      "subtitle": "Atelier de transformation & showroom",
+      "addressLabel": "Adresse de l'atelier",
+      "phoneLabel": "Téléphone",
+      "emailLabel": "E-mail",
+      "hoursTitle": "Horaires d'ouverture",
+      "whatsappCta": "Contactez-nous sur WhatsApp",
+      "whatsappDesc": "Assistance commerciale et devis direct",
+      "socialTitle": "Réseaux Sociaux",
+      "mapTitle": "Emplacement de l'atelier"
+    },
+    "formTitle": "Envoyez-nous un message",
+    "formSubtitle": "Remplissez ce formulaire et nous vous répondrons sous 24h.",
+    "fields": {
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "message": "Votre message",
+      "file": "Pièce jointe (optionnel)",
+      "fileHint": "PDF, JPG ou PNG — 10 Mo maximum"
+    },
+    "placeholders": {
+      "name": "Ex. Mohamed Ben Salem",
+      "email": "Ex. contact@exemple.com",
+      "message": "Décrivez votre demande, vos besoins ou vos questions..."
+    },
+    "validation": {
+      "nameRequired": "Le nom est obligatoire.",
+      "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+      "messageRequired": "Le message est obligatoire.",
+      "fileTooLarge": "Le fichier ne doit pas dépasser 10 Mo.",
+      "fileTypeInvalid": "Formats acceptés : PDF, JPG, JPEG ou PNG."
+    },
+    "submit": "Envoyer le message",
+    "submitting": "Envoi en cours…",
+    "fileRemove": "Retirer",
+    "honeypotLabel": "Ne pas remplir",
+    "success": {
+      "title": "Message envoyé",
+      "message": "Merci pour votre message. Notre équipe commerciale vous répondra dans les plus brefs délais.",
+      "confirmationNote": "Un e-mail de confirmation vous a été envoyé à l'adresse indiquée."
+    },
+    "error": {
+      "title": "L'envoi n'a pas abouti",
+      "retry": "Réessayer",
+      "fallback": "Vous pouvez aussi nous joindre directement :",
+      "codes": {
+        "validation": "Certaines informations semblent incorrectes. Vérifiez le formulaire et réessayez.",
+        "file": "Le fichier joint n'est pas valide.",
+        "upload": "Le téléversement du fichier a échoué. Réessayez ou envoyez sans pièce jointe.",
+        "email": "L'envoi des e-mails a échoué. Veuillez réessayer dans quelques instants.",
+        "config": "Le service est temporairement indisponible. Contactez-nous par téléphone ou WhatsApp."
+      }
+    },
+    "emailUsine": {
+      "subject": "Nouveau message de contact — {name}",
+      "heading": "Nouveau message de contact",
+      "name": "Nom",
+      "email": "E-mail",
+      "message": "Message",
+      "fileLink": "Fichier joint :",
+      "noFile": "Aucun fichier joint."
+    },
+    "emailConfirm": {
+      "subject": "Confirmation de votre message | MARBRERIE TUNIS CARTHAGE",
+      "greeting": "Bonjour {name},",
+      "body": "Nous avons bien reçu votre message. Notre équipe commerciale prend connaissance de votre demande et reviendra vers vous très prochainement.",
+      "fallback": "Pour toute urgence, vous pouvez nous joindre au :",
+      "whatsapp": "Nous écrire sur WhatsApp"
+    }
+  },
+  "apropos": {
+    "meta": {
+      "title": "À Propos | MARBRERIE TUNIS CARTHAGE — Savoir-Faire & Excellence",
+      "description": "Découvrez l'histoire, les valeurs, les certifications et l'équipe de MARBRERIE TUNIS CARTHAGE. L'art de la pierre naturelle depuis 1989."
+    },
+    "intro": {
+      "kicker": "Depuis 1989",
+      "title": "Une histoire de passion et de savoir-faire",
+      "paragraph1": "Depuis plus de trois décennies, MARBRERIE TUNIS CARTHAGE sublime les pierres naturelles les plus nobles de Tunisie et du bassin méditerranéen. De l'extraction en carrière jusqu'au polissage minutieux en atelier, chaque réalisation incarne un équilibre parfait entre tradition artisanale et innovation technologique.",
+      "paragraph2": "Nous accompagnons architectes, décorateurs et particuliers exigeants dans la concrétisation de leurs projets les plus ambitieux, en façonnant le marbre, le granit et le travertin avec une précision d'orfèvre."
+    },
+    "histoire": {
+      "kicker": "Notre Parcours",
+      "title": "Les grandes étapes de notre maison",
+      "prevAria": "Étape précédente",
+      "nextAria": "Étape suivante",
+      "stepIndicator": "Étape {current} sur {total}"
+    },
+    "valeurs": {
+      "kicker": "Nos Valeurs",
+      "title": "Les principes qui guident notre geste"
+    },
+    "certifications": {
+      "kicker": "Nos Certifications",
+      "title": "Normes & Exigences Internationales"
+    },
+    "equipe": {
+      "kicker": "Notre Équipe",
+      "title": "Les artisans de votre vision"
+    },
+    "coordonnees": {
+      "kicker": "Contact & Visite",
+      "title": "Donnez vie à vos projets d'exception",
+      "description": "Nos conseillers et maîtres marbriers sont à votre écoute pour étudier vos plans, vous présenter nos échantillons et vous accompagner dans chaque étape de réalisation.",
+      "addressLabel": "Atelier & Showroom",
+      "phoneLabel": "Téléphone direct",
+      "emailLabel": "Courrier électronique",
+      "hoursLabel": "Horaires d'ouverture",
+      "ctaContact": "Nous contacter",
+      "ctaWhatsApp": "Échanger sur WhatsApp"
+    }
+  },
+  "catalogue": {
+    "meta": {
+      "title": "Catalogue Interactif | MARBRERIE TUNIS CARTHAGE",
+      "description": "Feuilletez notre catalogue interactif en ligne. Découvrez notre gamme complète de marbres, granits et travertins d'exception."
+    },
+    "kicker": "Collection Exclusive",
+    "title": "Notre Catalogue",
+    "subtitle": "Feuilletez notre collection de pierres d'exception au fil des pages. Découvrez nos marbres, granits et finitions artisanales.",
+    "instructions": "Cliquez sur les coins ou glissez pour tourner les pages",
+    "prevPage": "Page précédente",
+    "nextPage": "Page suivante",
+    "pageIndicator": "Page {current} sur {total}",
+    "loading": "Chargement du catalogue...",
+    "loadingProgress": "Chargement des pages...",
+    "soundOn": "Son activé",
+    "soundOff": "Son désactivé",
+    "downloadPdf": "Télécharger le PDF",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter plein écran",
+    "zoomIn": "Agrandir",
+    "zoomOut": "Réduire",
+    "fitWidth": "Ajuster la taille",
+    "coverFront": "Couverture",
+    "coverBack": "Quatrième de couverture"
+  }
+}
